@@ -1,6 +1,6 @@
 # 💼 Job Board Flask Application
 
-This is a web-based job board application built using Python Flask, designed to allow users to view, post, and manage job vacancies. The application was originally forked from [rimkahan888/job-board-flask](https://github.com/rimkahan888/job-board-flask) and has been enhanced with additional UI/UX improvements, functionality adjustments, and educational documentation for a final project in Software Engineering (UAS RPL 2025).
+This is a web-based job board application built using Python Flask, designed to allow users to view, post, and manage job vacancies. The application was originally forked from [rimkahan888/job-board-flask](https://github.com/rimkahan888/job-board-flask) and has been enhanced with additional UI/UX improvements, functionality adjustments, and educational documentation for a final project in Software Engineering (UJIAN AKHIR SEMESTER REKAYASA PERANGKAT LUNAK 2025).
 
 ---
 
@@ -45,5 +45,4 @@ This is a web-based job board application built using Python Flask, designed to 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/mayaamega/job-board-flask.git
-cd job-board-flask
+git clone https://github.com/gufronawsm/UAS-RPL-25 
